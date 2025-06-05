@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "releaseDate": "2025-06-05",
+  "releaseName": "Initial Development Release",
+  "components": {
+    "frontend": "0.1.0",
+    "backend": "0.1.0",
+    "apphost": "0.1.0",
+    "servicedefaults": "0.1.0"
+  },
+  "prerelease": null,
+  "buildMetadata": {
+    "commit": "",
+    "buildNumber": "",
+    "buildDate": "2025-06-05T04:07:09Z"
+  },
+  "compatibility": {
+    "apiVersion": "0.1",
+    "databaseVersion": "0.1",
+    "configVersion": "0.1"
+  },
+  "changelog": {
+    "added": [
+      "Initial project structure",
+      "Frontend React application",
+      "Backend ASP.NET Core API",
+      "Aspire AppHost orchestration"
+    ],
+    "changed": [],
+    "deprecated": [],
+    "removed": [],
+    "fixed": [],
+    "security": []
+  }
+}
